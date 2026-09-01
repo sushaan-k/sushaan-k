@@ -12,6 +12,32 @@
 
 ---
 
+### experience
+
+**Leader, [Mantis Discovery](https://home.withmantis.com/)**
+
+Leading a 30+ person team of researchers, including PhDs, IMO medalists, and students from leading universities, advancing automated AI R&D across machine learning engineering, computational biology, mathematics, and physics through Mantis at MIT CSAIL's Kellis Lab.
+
+---
+
+### research
+
+| paper | focus |
+|---|---|
+| [**Same Dynamics, Different Structures in Energy-Preserving Operator Fits**](https://sushaan-k.github.io/same-dynamics/) | Identifiability and invisible coefficient structure in energy-preserving operator fits |
+| [**Beyond Retrieval: Selective Reconsolidation in Persistent Agent Memory**](https://sushaan-k.github.io/beyond-retrieval/) | Justification-aware revision for persistent agent memory |
+| [**Fixed-Margin Prediction of RNA-Protein Association Across Cohorts**](https://sushaan-k.github.io/coupling-fields-benchmark/) | Perturbation-specific dependence in linked single-cell assays |
+| [**The Compatibility Atlas: A Convex-Geometric Index for LoRA Libraries**](https://sushaan-k.github.io/lora-compatibility-atlas/?=v1) | Certified screening of LoRA merge compatibility |
+| [**Rook: Global Permutation Geometry for Neural Routing**](https://sushaan-k.github.io/rook/?v=1) | Curvature-matched optimization for doubly stochastic routing blocks |
+
+---
+
+### recognition
+
+- Selected attendee, Y Combinator Startup School '26; invited to a small-group dinner with a YC partner
+
+---
+
 ### open-source projects
 
 | package | what it does | stars |
