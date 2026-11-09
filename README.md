@@ -15,13 +15,13 @@ I work on mathematics and machine learning research. Jacksonville, FL · [sushaa
 | Paper | Role | Status |
 |---|---|---|
 | [An Improved Exceptional-Set Bound for the Erdős–Straus Equation](https://sushaan-k.github.io/erdos-straus/) · [Lean 4 proof](https://github.com/sushaan-k/erdos-straus-lean) | Co-first author | Under review |
-| [The Compatibility Atlas: A Convex-Geometric Index for LoRA Libraries](https://sushaan-k.github.io/lora-compatibility-atlas/) · with Prof. Vladimir Filkov (UC Davis) | First author | Under review |
+| [The Compatibility Atlas: A Convex-Geometric Index for LoRA Libraries](https://sushaan-k.github.io/lora-compatibility-atlas/) · [code and data](https://github.com/sushaan-k/lora-compatibility-atlas) · with Prof. Vladimir Filkov (UC Davis) | First author | Under review |
 | [Beyond Retrieval: Selective Reconsolidation in Persistent Agent Memory](https://sushaan-k.github.io/beyond-retrieval/) · with Prof. Manolis Kellis (MIT) | First author | IEEE CogMI 2026 |
-| [Same Dynamics, Different Structures in Energy-Preserving Operator Fits](https://sushaan-k.github.io/same-dynamics/) | First author | NeurIPS 2026 AI for Science Workshop |
+| [Same Dynamics, Different Structures in Energy-Preserving Operator Fits](https://sushaan-k.github.io/same-dynamics/) · [code and data](https://github.com/sushaan-k/sage-data) | First author | NeurIPS 2026 AI for Science Workshop |
 | In-Context Compilation of Explicit Physics Laws from Short Trajectory Prompts | Second author | IEEE MIT URTC 2026 |
 | TIE-Cyber: Benchmarking What Security Logs Can Prove and Auditing Prompted LLM Learner Trajectories | Second author | ACM SIGCITE 2026 |
 | [Rook: Global Permutation Geometry for Neural Routing](https://sushaan-k.github.io/rook/) | First author | Under review |
-| [Estimating Cross-Modal Dependence with Fewer Paired Cells](https://sushaan-k.github.io/unpaired-dependence/) | First author | Preprint |
+| [Estimating Cross-Modal Dependence with Fewer Paired Cells](https://sushaan-k.github.io/unpaired-dependence/) · [code and data](https://github.com/sushaan-k/unpaired-dependence) | First author | Paper, code and data released |
 
 ### Open source
 
